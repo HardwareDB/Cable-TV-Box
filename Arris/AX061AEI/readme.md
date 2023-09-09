@@ -6,6 +6,13 @@ For use with EPS-10
 18122444570
 
 Hardware: {
+board:
+make: Arris
+markings:
+  ARRIS INTERNATIONAL PLC
+  599133-006-A
+  26-APR-2018
+
 cpu:
 make: Broadcom
 markings:
@@ -19,4 +26,11 @@ markings:
   SDINBDG4-16G
   B172DPDHAQLE
 
+memory:
+make: Micron
+markings:
+  8PC77
+  D9VTK
+  LRYN
+voltage: 1.8
 }
